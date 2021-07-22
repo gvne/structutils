@@ -1,5 +1,11 @@
 # StructUtils
 
+## Note
+
+This package relies heavily on variadics macros. For Microsoft Visual Studio we
+rely on an update available in MSVC2019 >= 16.5. See (this)[https://docs.microsoft.com/en-us/cpp/preprocessor/preprocessor-experimental-overview?view=msvc-160]
+for more.
+
 ## ASTRUCT: aligned structure
 
 ### Usage:
